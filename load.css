@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f2f2f2;
+    font-family: "Poppins", sans-serif;
+}
+
+#planet-loader {
+    width: 83%;
+    margin: auto;
+    margin-top: 27px;
+}
+
+#loader-head {
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 72px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 1px;
+    color: #121c33;
+    font-family: "Poppins", sans-serif;
+
+}
+
+#img-container {
+    background-color: white;
+    height: 240px;
+    width: 240px;
+    border-radius: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 120px;
+}
